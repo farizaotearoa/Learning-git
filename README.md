@@ -1,1 +1,1 @@
-This repository is for my first git commit
+This repository is for learning git and my first git commit
